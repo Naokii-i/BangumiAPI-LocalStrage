@@ -1,0 +1,11 @@
+
+/* 　　画像の中央揃え */
+.img1{
+    text-align: center;
+}
+
+  /* 　表示する画像の大きさ */
+#imgPreview{
+    width: 400px;
+    margin: auto;
+}
